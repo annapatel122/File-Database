@@ -1,2 +1,2 @@
 # File and Database
-Using SQL to create databases through MariaDB on DBeaver. 
+Using SQL and Python to create databases through MariaDB on DBeaver. 
